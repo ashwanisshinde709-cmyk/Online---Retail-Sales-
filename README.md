@@ -1,3 +1,4 @@
+
 # 📊 Online Retail Sales Analysis (Excel Dashboard Project)
 
 ## 📌 Project Overview
@@ -205,8 +206,10 @@ Using Power Query, Pivot Tables, Pivot Charts, Slicers, Timeline Filters, and da
 
 <img width="522" height="298" alt="Screenshot 2026-07-26 224641" src="https://github.com/user-attachments/assets/20e2f584-b2a9-4532-885b-5a877bfee572" />
 
+<img width="1010" height="401" alt="Screenshot 2026-07-26 232744" src="https://github.com/user-attachments/assets/b94600a7-b607-42cf-8d8b-127ad0960fad" />
 
 
+<img width="771" height="405" alt="Screenshot 2026-07-26 232812" src="https://github.com/user-attachments/assets/8f2fb850-ba7e-40c9-b37d-7ee7b6bf0472" />
 
 
 
