@@ -209,7 +209,11 @@ Using Power Query, Pivot Tables, Pivot Charts, Slicers, Timeline Filters, and da
 
 ```md
 ![Dashboard](images/dashboard.png)
-```
+```<img width="522" height="298" alt="Screenshot 2026-07-26 224641" src="https://github.com/user-attachments/assets/66dd9214-e9d2-47ee-aaa9-07e21f74af21" />
+
+<img width="352" height="250" alt="Screenshot 2026-07-26 224703" src="https://github.com/user-attachments/assets/26c9dd37-de0a-4559-b81d-1fb0fb241fcd" />
+
+
 
 ---
 
