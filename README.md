@@ -203,15 +203,10 @@ Using Power Query, Pivot Tables, Pivot Charts, Slicers, Timeline Filters, and da
 
 ---
 
-## 📷 Dashboard Preview
+<img width="522" height="298" alt="Screenshot 2026-07-26 224641" src="https://github.com/user-attachments/assets/20e2f584-b2a9-4532-885b-5a877bfee572" />
 
-> Add a screenshot of your Excel dashboard here.
+<img width="352" height="250" alt="Screenshot 2026-07-26 224703" src="https://github.com/user-attachments/assets/f6acb75b-b6a8-4a71-96f5-9f20767c99fd" />
 
-```md
-![Dashboard](images/dashboard.png)
-```<img width="522" height="298" alt="Screenshot 2026-07-26 224641" src="https://github.com/user-attachments/assets/66dd9214-e9d2-47ee-aaa9-07e21f74af21" />
-
-<img width="352" height="250" alt="Screenshot 2026-07-26 224703" src="https://github.com/user-attachments/assets/26c9dd37-de0a-4559-b81d-1fb0fb241fcd" />
 
 
 
