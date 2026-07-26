@@ -205,7 +205,7 @@ Using Power Query, Pivot Tables, Pivot Charts, Slicers, Timeline Filters, and da
 
 <img width="522" height="298" alt="Screenshot 2026-07-26 224641" src="https://github.com/user-attachments/assets/20e2f584-b2a9-4532-885b-5a877bfee572" />
 
-<img width="352" height="250" alt="Screenshot 2026-07-26 224703" src="https://github.com/user-attachments/assets/f6acb75b-b6a8-4a71-96f5-9f20767c99fd" />
+
 
 
 
